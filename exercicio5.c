@@ -1,3 +1,11 @@
+//Escreva um algoritmo para ler as notas das duas avaliações de um aluno no semestre, calcular e 
+//escrever a média semestral. Se a média for maior que 6.0 imprimir a mensagem “APROVADO”. Se 
+//a média for menor que 6.0 e maior que 3.0, imprimir a mensagem “EXAME”, se a média for menor 
+//que 3.0 imprimir a mensagem “REPROVADO”
+
+
+
+
 #include <stdio.h>
 
 int main(void) {
