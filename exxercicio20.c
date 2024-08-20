@@ -3,7 +3,7 @@
 //aposentados, 30%. Os demais clientes pagam o ingresso completo.
 //Categorias: Estudante: E ou e
 //Aposentados: A ou a
-//Normal: N ou 
+//Normal: N ou n.
 
 
 
